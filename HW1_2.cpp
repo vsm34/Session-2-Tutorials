@@ -2,7 +2,7 @@
     Author: Gian Carlo Rosario
     netID: gor10
     RUID: 217007258
-    The below code is for part 3 of HW1 Group Assignment
+    The below code is for part 2 of HW1 Group Assignment
 */
 #include <iostream>
 #include <cstdint>
